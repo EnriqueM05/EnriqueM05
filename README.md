@@ -23,6 +23,20 @@
 
 #
 
-### Stats
+### Stats 📊
 
-![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueM05&show_icons=true&theme=apprentice)
+<!-- ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueM05&show_icons=true&theme=apprentice)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueM05&langs_count=8&theme=apprentice&layout=compact)
+-->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EnriqueM05&show_icons=true&theme=apprentice" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueM05&langs_count=8&theme=apprentice&layout=compact" />
+    </td>
+  </tr>
+</table>
